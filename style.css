@@ -432,7 +432,7 @@ select:-webkit-autofill:active{
  .swiper-button-prev, .swiper-button-next {
      background-image:inherit !important;
      color:#fff;
-     transition: .5s;
+     transition: .10s;
      outline: none;
 }
  .swiper-button-prev:hover, .swiper-button-next:hover {
